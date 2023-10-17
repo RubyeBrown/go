@@ -41,4 +41,4 @@ GoReport报表工具升级了以下功能：
 fis3 release -r report
 fis3 release -r core
 fis3 release -r common
-fis3 release -r cms 
+fis3 release -r cms  
